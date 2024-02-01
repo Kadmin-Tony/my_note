@@ -1,0 +1,8 @@
+shift + a 添加
+shift + d 复制
+shift + s 吸附
+
+ctrl + a 应用变换（方便倒角）
+ctrl + alt + lmb 选择循环
+ctrl + alt + 0 设置摄像机位置
+ctrl + l 关联

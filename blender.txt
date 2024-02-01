@@ -1,0 +1,21 @@
+shift + 中键 拖动镜头
+shift + a 添加物品
+shift + d 复制
+shift + r 重复上一步操作
+shift + s 吸附
+
+i 插入关键帧
+ 
+ctrl + alt + lmb 选择循环
+ctrl + num 细分
+ctrl + a 应用变换（方便倒角）
+ctrl + b 倒角
+ctrl + l 关联
+ctrl + r 环切
+
+alt + 边 选择循环边
+
+tab 切换模式
+i 内插面
+e 挤出
+p 分离

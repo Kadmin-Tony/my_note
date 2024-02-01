@@ -1,0 +1,11 @@
+ofstrem     写
+ifstream    读
+fstream     读写
+
+ios::
+in          为读打开
+out         为写打开
+ate         追加
+app         追加
+trunc       如果文件存在，会先删除再创建
+binary      二进制

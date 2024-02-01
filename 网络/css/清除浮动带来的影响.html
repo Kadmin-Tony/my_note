@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>清除浮动带来的影响</title>
+    <style>
+        .inner{
+            background-color: green;
+            width: 200px;
+            height: 200px;
+            float: left;
+        }
+        .out{
+            background-color: red;
+            width: 400px;          
+        }
+        /* 1.通过额外的标签来清除左右浮动的影响 */
+        .clearor{
+            clear: both;
+        }
+        /* 2.通过伪元素来清除 */
+        .out::after{
+            content: " ";
+            display: block;
+            clear: both;
+        }
+        /* 3.使用overflow */
+        .out{
+            overflow: hidden;
+        }
+        p{
+            background-color: pink;
+        }
+    </style>
+</head>
+<body>
+    <!-- 由于子元素开启了浮动，父元素便失去了高度 -->
+    <div class="out">
+        <div class="inner"></div>
+        <div class="clearor"></div>
+    </div>
+    <p>hello world</p>
+</body>
+</html>

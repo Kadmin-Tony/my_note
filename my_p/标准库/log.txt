@@ -1,0 +1,24 @@
+2022-12-14 22:58:15,366 - log日志.py[line:86] - WARNING: 这是 loggging a warning message
+2022-12-14 22:58:15,366 - log日志.py[line:86] - WARNING: 这是 loggging a warning message
+2022-12-14 22:58:15,366 - log日志.py[line:87] - ERROR: 这是 an loggging error message
+2022-12-14 22:58:15,366 - log日志.py[line:87] - ERROR: 这是 an loggging error message
+2022-12-14 22:58:15,366 - log日志.py[line:88] - CRITICAL: 这是 loggging critical message
+2022-12-14 22:58:15,366 - log日志.py[line:88] - CRITICAL: 这是 loggging critical message
+2022-12-14 23:02:19,334 - log日志.py[line:86] - WARNING: 这是 loggging a warning message
+2022-12-14 23:02:19,334 - log日志.py[line:86] - WARNING: 这是 loggging a warning message
+2022-12-14 23:02:19,335 - log日志.py[line:87] - ERROR: 这是 an loggging error message
+2022-12-14 23:02:19,335 - log日志.py[line:87] - ERROR: 这是 an loggging error message
+2022-12-14 23:02:19,336 - log日志.py[line:88] - CRITICAL: 这是 loggging critical message
+2022-12-14 23:02:19,336 - log日志.py[line:88] - CRITICAL: 这是 loggging critical message
+2022-12-14 23:02:41,186 - log日志.py[line:86] - WARNING: 这是 loggging a warning message
+2022-12-14 23:02:41,186 - log日志.py[line:86] - WARNING: 这是 loggging a warning message
+2022-12-14 23:02:41,187 - log日志.py[line:87] - ERROR: 这是 an loggging error message
+2022-12-14 23:02:41,187 - log日志.py[line:87] - ERROR: 这是 an loggging error message
+2022-12-14 23:02:41,187 - log日志.py[line:88] - CRITICAL: 这是 loggging critical message
+2022-12-14 23:02:41,187 - log日志.py[line:88] - CRITICAL: 这是 loggging critical message
+2022-12-14 23:02:50,146 - log日志.py[line:86] - WARNING: 这是 loggging a warning message
+2022-12-14 23:02:50,146 - log日志.py[line:86] - WARNING: 这是 loggging a warning message
+2022-12-14 23:02:50,147 - log日志.py[line:87] - ERROR: 这是 an loggging error message
+2022-12-14 23:02:50,147 - log日志.py[line:87] - ERROR: 这是 an loggging error message
+2022-12-14 23:02:50,147 - log日志.py[line:88] - CRITICAL: 这是 loggging critical message
+2022-12-14 23:02:50,147 - log日志.py[line:88] - CRITICAL: 这是 loggging critical message

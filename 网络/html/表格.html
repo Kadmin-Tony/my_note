@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>表格</title>
+</head>
+<body>
+    <!-- table>tr>td -->
+    <!-- caption:标题(放在table内) -->
+
+    <!-- th:表头 -->
+    <!-- thead, tbody, tfoot -->
+
+    <!-- rowspan合并行, colspan合并列 -->
+    <table>
+        <caption>MYT</caption>
+
+        <thead>
+            <tr>
+                <th>id</th>
+                <th>name</th>   <!-- 表头 -->
+                <th>age</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>KamiSama</td>
+                <td>18</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>77</td>
+                <td rowspan="2">500</td>  <!-- 合并两行 -->
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Wenti</td>
+            </tr>
+        </tbody>
+
+        <tfoot>
+            <tr>
+                <td colspan="3">  <!-- 合并三列 -->
+                    我看你们都是人才
+                </td>
+            </tr>
+        </tfoot>
+
+    </table>
+</body>
+</html>

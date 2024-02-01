@@ -1,0 +1,21 @@
+α   alpha
+β   beta
+Γ γ gamma
+Δ δ delta
+ε   epsilon
+ζ   zeta
+η   eta
+Θ θ theta
+ι   iota
+κ   kappa
+λ   lambda
+μ   miu
+ξ   ksi
+Π   pai
+ρ   rho rou
+Σ σ sigma
+τ   tau
+υ   upsilon
+Φ φ phi
+ψ   psi
+Ω ω omega
